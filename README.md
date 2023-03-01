@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there :simple_smile:
 
 <!--
 **ChrisKnowles53/ChrisKnowles53** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
