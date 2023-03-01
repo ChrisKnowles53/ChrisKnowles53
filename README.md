@@ -1,17 +1,35 @@
-### Hi there :simple_smile:
+<HTML>
+   <head>
+    <title>Chris Knowles</title>
+  
+   <style>
+    h1 {
+     color: White;
+     font-size: 35px;
+     text-align: center;}
+    h2 {
+     color:White;
+     font-size:2opx;
+     font-family: arial, Solitreo;}
+    h3 {
+     color: var(--audi-black, pink);
+     font-size: 20px;
+     font-family: arial, Solitreo} 
+   .background {
+      background-color:white;}
+   
+   </style>
 
-<!--
-**ChrisKnowles53/ChrisKnowles53** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+   <h1 id="title">A bit about me</h1>
+   </head>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-So here goes the start of 16 weeks of Bootcamp14 with the School of Code.  Excited and nervous as this starts the process of changing my work life.
+
+<body class="background">
+
+<h2>Hi there,
+<p>So here goes the start of 16 weeks of Bootcamp14 with the School of Code.  Excited and nervous as this starts the process of changing my work life.
+</p>
+</h2>
+</body>
+</HTML>
