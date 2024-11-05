@@ -4,7 +4,7 @@
 ## A bit about me
 In the later part of my career, I was working alongside and realised I was watching Software Developers with envious eyes, the way they worked, the problems they were solving and how much the world of software development seemed to align with my way of thinking.
 
-I embarked upon a life-changing 16-week training course to become a Full Stack Developer and graduated from it in July 2023.  Since then i have been working at ThinkMoney and deeloped my overall dev skills and learnt Golang.
+I embarked upon a life-changing 16-week training course to become a Full Stack Developer and graduated from it in July 2023.  Since then I have been working at ThinkMoney and have developed my overall dev skills, learnt Golang and delivered app improvements for our customers.
 
 I aim to bring all my experience and the ability to solve problems calmly and efficiently whilst working collaboratively with internal and external stakeholders to achieve shared goals.
 
