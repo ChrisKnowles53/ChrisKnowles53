@@ -2,11 +2,7 @@
 #### My name is Chris Knowles, I’m a Chartered Mechanical Engineer, I’ve swum across the English Channel and I am now a Software Developer.
 
 ## A bit about me
-In the later part of my career, I was working alongside and realised I was watching Software Developers with envious eyes, the way they worked, the problems they were solving and how much the world of software development seemed to align with my way of thinking.
-
-I embarked upon a life-changing 16-week training course to become a Full Stack Developer and graduated from it in July 2023.  Since then I have been working at ThinkMoney and have developed my overall dev skills, learnt Golang and delivered app improvements for our customers.
-
-I aim to bring all my experience and the ability to solve problems calmly and efficiently whilst working collaboratively with internal and external stakeholders to achieve shared goals.
+I'm a Backend Software Engineer with strong experience building and owning production Go services in AWS. Proven in delivering customer-facing features end-to-end — from ambiguous requirements through design, implementation, deployment, and on-call support. Brings a product mindset, strong operational ownership, and a track record of improving system reliability and team effectiveness.
 
 ## My Projects
 
